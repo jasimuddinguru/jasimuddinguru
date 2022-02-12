@@ -5,7 +5,8 @@
 #### I am wordpress web designer and developer
 
 
-I am an expert WordPress Website Developer. I have a lot of experience in creating WordPress websites with a custom design. If you need any kind of WordPress website please contact me! <br>
+I am an expert WordPress Website Developer. I have a lot of experience in creating WordPress websites with a custom design. If you need any kind of WordPress website please contact me! 
+<br>
 Skills: HTML | CSS | JAVASCRIPT | PHP | MYSQL
 
 - 🔭 I’m currently working on upwork as a web developer. 
