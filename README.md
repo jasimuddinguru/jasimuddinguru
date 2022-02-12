@@ -27,4 +27,4 @@ I’m a Front End <b>Web developer</b> who is passionate about making error-free
 ✅  ► info@jasimuddinguru.com
 ✅  ► jasimuddinguru@gmail.com
 ## 🕸️ Portfolio Website Link
-##🧑‍💻 https://jasimuddinguru.com
+🧑‍💻 https://jasimuddinguru.com
