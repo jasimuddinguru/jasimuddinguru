@@ -1,12 +1,12 @@
 ## Hi, I'm Jasim Uddin Guru 👋
 <p>
-👑 I am Web Developer <br> 
+👑 I am a Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
 ![Profile views](https://gpvc.arturio.dev/jasimuddinguru) 
 
-I’m a Front End <b>Web developer</b> who is passionate about making error-free websites with 100% <b>client satisfaction</b>. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain <b>excellent communication</b>. Most of the time I work with <b><i>WordPress</i></b> but some technologies I enjoy working with include ReactJS, <b>JavaScript as well as PHP</b>. 
+I’m a Front End <b>Web developer</b> who is passionate about making error-free websites with 100% <b>client satisfaction</b>. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining <b>excellent communication</b>. Most of the time I work with <b><i>WordPress</i></b> but some technologies I enjoy working with include ReactJS, <b>JavaScript as well as PHP</b>. 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ WordPress <br> 
@@ -24,7 +24,7 @@ I’m a Front End <b>Web developer</b> who is passionate about making error-free
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasimuddinguru&show_icons=true) 
 
 ## 📧 For Business Inquiries 
-✅  ► info@jasimuddinguru.com
+✅  ► info@jasimuddin.info
 ✅  ► jasimuddinguru@gmail.com
 ## 🕸️ Portfolio Website Link
-🧑‍💻 https://jasimuddinguru.com
+🧑‍💻 https://jasimuddin.info
