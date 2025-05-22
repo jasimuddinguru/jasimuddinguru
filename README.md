@@ -1,30 +1,72 @@
-## Hi, I'm Jasim Uddin Guru 👋
-<p>
-👑 I am a Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+<h1 align="center">🚀 Jasim Uddin Guru – WordPress Bug Fixing Expert</h1>
 
-![Profile views](https://gpvc.arturio.dev/jasimuddinguru) 
+<p align="center">
+  <strong>Keeping WordPress websites fast, secure, and bug-free – one fix at a time.</strong><br>
+  🔧 WordPress Bug Fixer | 🖥️ Front-End Debugger | 💡 Problem Solver
+</p>
 
-I’m a Front End <b>Web developer</b> who is passionate about making error-free websites with 100% <b>client satisfaction</b>. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining <b>excellent communication</b>. Most of the time I work with <b><i>WordPress</i></b> but some technologies I enjoy working with include ReactJS, <b>JavaScript as well as PHP</b>. 
+---
 
-## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+### ⚡ About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasimuddinguru&layout=compact)
+I’m a specialist in **WordPress bug fixing and front-end issue resolution**. When websites break, slow down, or misbehave — I jump in and fix them fast.  
+With deep experience in troubleshooting and performance tuning, I help site owners keep things running smoothly and securely.
 
-## ☕ Connect with me!
-[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://web.facebook.com/JasimUddinGuru/)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/jasimuddinguru/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/jasimuddinguru)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/jasimuddinguru)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/jasimuddinguru6//)  
+---
 
+### 🧩 What I Fix Every Day
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasimuddinguru&show_icons=true) 
+| 🔍 Service | ✅ What I Deliver |
+|-----------|------------------|
+| 🐛 **Bug Diagnosis & Fixing** | Identify and fix WordPress errors, broken pages, and crashes |
+| 🔄 **Plugin/Theme Conflict Resolution** | Restore compatibility without breaking site functionality |
+| ⚡ **Speed Optimization** | Improve loading time with caching, compression, and clean code |
+| 🔐 **Security Hardening** | Remove malware, patch vulnerabilities, and lock down access |
+| 🎨 **Front-End Repairs** | Solve HTML, CSS, JavaScript layout issues and mobile glitches |
 
-## 📧 For Business Inquiries 
-✅  ► info@jasimuddin.info
-✅  ► jasimuddinguru@gmail.com
-## 🕸️ Portfolio Website Link
-🧑‍💻 https://jasimuddin.info
+---
+
+### 🛠️ Tools & Skills
+
+WordPress | PHP | HTML5 | CSS3 | JavaScript
+Elementor | cPanel | Security Plugins | Optimization Tools
+
+### 💼 Services I Offer
+
+✅ **Emergency Bug Fixing** – Fast and reliable solutions for urgent site issues  
+✅ **Full Troubleshooting** – Get to the root cause of complex WordPress problems  
+✅ **Website Maintenance** – Regular updates, backups, and health monitoring  
+✅ **Performance Boosting** – Caching, image optimization, and lazy loading  
+✅ **Security Audits** – Fix vulnerabilities and keep threats out  
+
+---
+
+### 📬 Contact Me
+
+Let's solve your WordPress problems — quickly and professionally.
+
+📧 **Email:** [info@jasimuddinguru.com](mailto:info@jasimuddinguru.com) | [jasimuddinguru@gmail.com](mailto:jasimuddinguru@gmail.com)  
+🌐 **Portfolio:** [https://jasimuddinguru.com](https://jasimuddinguru.com)
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://web.facebook.com/JasimUddinGuru/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jasimuddinguru6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/jasimuddinguru">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/jasimuddinguru">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 💡 **“You focus on your business. I’ll handle the bugs.”**
